@@ -1,0 +1,1497 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="CucumberBDDRunFeatureFile" time="207" tests="1" failures="0" errors="0">
+   <testsuite name="CucumberBDDRunFeatureFile" tests="1" failures="0" errors="0" time="207" timestamp="2018-12-08 23:45:38" hostname="VarunSubrayaYadapadithaya - localhost" id="Test Suites/CucumberBDDRunFeatureFile">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="/Users/VarunSubrayaYadapadithaya/Desktop/Varun/Work/eclipse workspaces/AutomationAssignment/Reports/CucumberBDDRunFeatureFile/20181208_234524"/>
+         <property name="logFiles" value="/Users/VarunSubrayaYadapadithaya/Desktop/Varun/Work/eclipse workspaces/AutomationAssignment/Reports/CucumberBDDRunFeatureFile/20181208_234524/execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="VarunSubrayaYadapadithaya - localhost"/>
+         <property name="os" value="Mac OS X 64bit"/>
+         <property name="katalonVersion" value="5.9.1.2"/>
+         <property name="browser" value="Firefox 63.0"/>
+         <property name="hostAddress" value="127.0.0.1"/>
+         <property name="sessionId" value="c854725d-435c-4d4f-84ac-b80a671a7f84"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Mac OS X"/>
+      </properties>
+      <testcase name="Test Cases/TC-CucumberBDDRunFeatureFile" classname="Test Cases/TC-CucumberBDDRunFeatureFile" status="PASSED">
+         <system-out><![CDATA[2018-12-08 23:45:39 - [TEST_CASE][PASSED] - Test Cases/TC-CucumberBDDRunFeatureFile: Test Cases/TC-CucumberBDDRunFeatureFile
+
+2018-12-08 23:45:39 - [TEST_STEP][PASSED] - runFeatureFolder("Include/features/SalesforceAutomation.feature"): All feature files in 'Include/features/SalesforceAutomation.feature' were passed
+
+2018-12-08 23:45:39 - [MESSAGE][INFO] - Starting run keyword runFeatureFolder: 'Include/features/SalesforceAutomation.feature' and extract report to folder: '/Users/VarunSubrayaYadapadithaya/Desktop/Varun/Work/eclipse workspaces/AutomationAssignment/Reports/CucumberBDDRunFeatureFile/20181208_234524/cucumber_report/1544341539909'...
+
+2018-12-08 23:45:42 - [MESSAGE][INFO] - Starting 'Firefox' driver
+
+2018-12-08 23:45:42 - [MESSAGE][INFO] - Action delay is set to 0 seconds
+
+2018-12-08 23:45:50 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-12-08 23:45:53 - [MESSAGE][PASSED] - Current window maximized
+
+2018-12-08 23:46:03 - [MESSAGE][PASSED] - Navigate to 'http://developer.salesforce.com' successfully
+
+2018-12-08 23:46:03 - [MESSAGE][PASSED] - Current window's title is: 'Salesforce Developers | API Documentation, Developer Forums & More'
+
+2018-12-08 23:46:03 - [MESSAGE][PASSED] - Actual text 'Salesforce Developers | API Documentation, Developer Forums & More' and expected text 'Salesforce Developers | API Documentation, Developer Forums & More' are matched 
+
+2018-12-08 23:46:03 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Salesforce Developers  API Doc/GDPR_Div_CloseButton' is present
+
+2018-12-08 23:46:03 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Salesforce Developers  API Doc/GDPR_Div_CloseButton' is clicked on
+
+2018-12-08 23:46:04 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Salesforce Developers  API Doc/Search_TextBox' is visible
+
+2018-12-08 23:46:04 - [MESSAGE][PASSED] - Text 'Writing Tests' is set on object 'Object Repository/Page_Salesforce Developers  API Doc/Search_TextBox'
+
+2018-12-08 23:46:04 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Page_Salesforce Developers  API Doc/Search_TextBox'
+
+2018-12-08 23:46:05 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-12-08 23:46:07 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Search/a_Writing Tests  Apex Develope' is present
+
+2018-12-08 23:46:08 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Search/a_Writing Tests  Apex Develope' is clickable
+
+2018-12-08 23:46:14 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Search/a_Writing Tests  Apex Develope' is clicked on
+
+2018-12-08 23:46:19 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2018-12-08 23:46:19 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:46:19 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'Apex Developer Guide'
+
+2018-12-08 23:46:19 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:46:20 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:46:20 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'Apex Developer Guide'
+
+2018-12-08 23:46:20 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:46:21 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:46:21 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:46:21 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'Getting Started with Apex'
+
+2018-12-08 23:46:21 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:46:22 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:46:22 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'Getting Started with Apex'
+
+2018-12-08 23:46:22 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:46:22 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:46:22 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:46:22 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'Introducing Apex'
+
+2018-12-08 23:46:23 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:46:24 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:46:24 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'Introducing Apex'
+
+2018-12-08 23:46:24 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:46:24 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:46:24 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:46:24 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'What is Apex?'
+
+2018-12-08 23:46:24 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:46:25 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:46:25 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'What is Apex?'
+
+2018-12-08 23:46:25 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:46:25 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:46:25 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:46:26 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'Understanding Apex Core Concepts'
+
+2018-12-08 23:46:26 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:46:27 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:46:27 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'Understanding Apex Core Concepts'
+
+2018-12-08 23:46:27 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:46:27 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:46:27 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:46:27 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'When Should I Use Apex?'
+
+2018-12-08 23:46:28 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:46:29 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:46:29 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'When Should I Use Apex?'
+
+2018-12-08 23:46:29 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:46:29 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:46:29 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:46:29 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'How Does Apex Work?'
+
+2018-12-08 23:46:29 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:46:30 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:46:30 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'How Does Apex Work?'
+
+2018-12-08 23:46:30 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:46:30 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:46:30 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:46:31 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'Developing Code in the Cloud'
+
+2018-12-08 23:46:31 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:46:32 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:46:32 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'Developing Code in the Cloud'
+
+2018-12-08 23:46:32 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:46:32 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:46:32 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:46:32 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'What's New?'
+
+2018-12-08 23:46:32 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:46:33 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:46:33 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'What's New?'
+
+2018-12-08 23:46:33 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:46:33 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:46:33 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:46:33 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'Apex Development Process'
+
+2018-12-08 23:46:34 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:46:35 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:46:35 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'Apex Development Process'
+
+2018-12-08 23:46:35 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:46:35 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:46:35 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:46:35 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'What is the Apex Development Process?'
+
+2018-12-08 23:46:35 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:46:36 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:46:36 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'What is the Apex Development Process?'
+
+2018-12-08 23:46:36 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:46:36 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:46:36 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:46:36 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'Create a Developer or Sandbox Org'
+
+2018-12-08 23:46:37 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:46:38 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:46:38 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'Create a Developer or Sandbox Org'
+
+2018-12-08 23:46:38 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:46:38 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:46:38 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:46:38 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'Learning Apex'
+
+2018-12-08 23:46:38 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:46:39 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:46:39 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'Learning Apex'
+
+2018-12-08 23:46:39 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:46:39 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:46:39 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:46:40 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'Writing Apex Using Development Environments'
+
+2018-12-08 23:46:40 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:46:41 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:46:41 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'Writing Apex Using Development Environments'
+
+2018-12-08 23:46:41 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:46:41 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:46:41 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:46:41 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'Writing Tests'
+
+2018-12-08 23:46:41 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:46:42 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:46:42 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'Writing Tests'
+
+2018-12-08 23:46:42 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:46:42 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:46:42 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:46:43 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'Deploying Apex to a Sandbox Organization'
+
+2018-12-08 23:46:43 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:46:44 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:46:44 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'Deploying Apex to a Sandbox Organization'
+
+2018-12-08 23:46:44 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:46:44 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:46:44 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:46:44 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'Deploying Apex to a Salesforce Production Organization'
+
+2018-12-08 23:46:44 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:46:45 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:46:45 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'Deploying Apex to a Salesforce Production Organization'
+
+2018-12-08 23:46:45 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:46:45 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:46:45 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:46:45 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'Adding Apex Code to a AppExchange App'
+
+2018-12-08 23:46:46 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:46:47 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:46:47 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'Adding Apex Code to a AppExchange App'
+
+2018-12-08 23:46:47 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:46:47 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:46:47 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:46:47 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'Apex Quick Start'
+
+2018-12-08 23:46:47 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:46:48 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:46:48 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'Apex Quick Start'
+
+2018-12-08 23:46:48 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:46:48 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:46:48 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:46:48 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'Create a Custom Object'
+
+2018-12-08 23:46:49 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:46:50 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:46:50 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'Create a Custom Object'
+
+2018-12-08 23:46:50 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:46:50 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:46:50 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:46:50 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'Adding an Apex Class'
+
+2018-12-08 23:46:50 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:46:51 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:46:51 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'Adding an Apex Class'
+
+2018-12-08 23:46:51 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:46:51 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:46:51 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:46:51 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'Add an Apex Trigger'
+
+2018-12-08 23:46:52 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:46:53 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:46:53 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'Add an Apex Trigger'
+
+2018-12-08 23:46:53 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:46:53 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:46:53 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:46:53 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'Add a Test Class'
+
+2018-12-08 23:46:53 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:46:54 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:46:54 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'Add a Test Class'
+
+2018-12-08 23:46:54 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:46:54 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:46:54 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:46:54 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'Deploying Components to Production'
+
+2018-12-08 23:46:55 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:46:56 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:46:56 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'Deploying Components to Production'
+
+2018-12-08 23:46:56 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:46:56 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:46:56 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:46:56 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'Writing Apex'
+
+2018-12-08 23:46:56 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:46:57 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:46:57 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'Writing Apex'
+
+2018-12-08 23:46:57 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:46:57 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:46:57 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:46:57 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'Data Types and Variables'
+
+2018-12-08 23:46:58 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:46:59 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:46:59 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'Data Types and Variables'
+
+2018-12-08 23:46:59 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:46:59 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:46:59 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:46:59 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'Data Types'
+
+2018-12-08 23:46:59 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:47:00 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:47:00 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'Data Types'
+
+2018-12-08 23:47:00 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:47:00 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:47:00 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:47:00 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'Primitive Data Types'
+
+2018-12-08 23:47:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:47:02 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:47:02 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'Primitive Data Types'
+
+2018-12-08 23:47:02 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:47:02 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:47:02 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:47:02 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'Collections'
+
+2018-12-08 23:47:02 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:47:03 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:47:03 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'Collections'
+
+2018-12-08 23:47:03 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:47:03 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:47:03 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:47:03 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'Lists'
+
+2018-12-08 23:47:04 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:47:05 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:47:05 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'Lists'
+
+2018-12-08 23:47:05 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:47:05 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:47:05 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:47:05 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'List Sorting'
+
+2018-12-08 23:47:05 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:47:06 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:47:06 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'List Sorting'
+
+2018-12-08 23:47:06 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:47:06 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:47:06 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:47:06 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'Sets'
+
+2018-12-08 23:47:06 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:47:07 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:47:07 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'Sets'
+
+2018-12-08 23:47:08 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:47:08 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:47:08 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:47:08 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'Maps'
+
+2018-12-08 23:47:08 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:47:09 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:47:09 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'Maps'
+
+2018-12-08 23:47:09 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:47:09 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:47:09 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:47:09 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'Parameterized Typing'
+
+2018-12-08 23:47:09 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:47:10 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:47:10 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'Parameterized Typing'
+
+2018-12-08 23:47:10 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:47:10 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:47:10 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:47:11 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'Enums'
+
+2018-12-08 23:47:11 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:47:12 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:47:12 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'Enums'
+
+2018-12-08 23:47:12 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:47:12 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:47:12 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:47:12 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'Variables'
+
+2018-12-08 23:47:12 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:47:13 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:47:13 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'Variables'
+
+2018-12-08 23:47:13 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:47:13 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:47:13 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:47:14 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'Constants'
+
+2018-12-08 23:47:14 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:47:15 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:47:15 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'Constants'
+
+2018-12-08 23:47:15 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:47:15 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:47:15 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:47:15 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'Expressions and Operators'
+
+2018-12-08 23:47:15 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:47:16 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:47:16 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'Expressions and Operators'
+
+2018-12-08 23:47:16 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:47:16 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:47:16 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:47:16 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'Expressions'
+
+2018-12-08 23:47:17 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:47:18 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:47:18 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'Expressions'
+
+2018-12-08 23:47:18 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:47:18 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:47:18 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:47:18 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'Expression Operators'
+
+2018-12-08 23:47:18 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:47:19 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:47:19 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'Expression Operators'
+
+2018-12-08 23:47:19 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:47:19 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:47:19 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:47:19 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'Operator Precedence'
+
+2018-12-08 23:47:20 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:47:21 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:47:21 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'Operator Precedence'
+
+2018-12-08 23:47:21 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:47:21 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:47:21 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:47:21 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'Comments'
+
+2018-12-08 23:47:21 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:47:22 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:47:22 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'Comments'
+
+2018-12-08 23:47:22 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:47:22 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:47:22 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:47:22 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'Assignment Statements'
+
+2018-12-08 23:47:23 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:47:24 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:47:24 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'Assignment Statements'
+
+2018-12-08 23:47:24 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:47:24 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:47:24 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:47:24 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'Rules of Conversion'
+
+2018-12-08 23:47:24 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:47:25 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:47:25 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'Rules of Conversion'
+
+2018-12-08 23:47:25 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:47:25 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:47:25 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:47:26 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'Control Flow Statements'
+
+2018-12-08 23:47:26 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:47:27 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:47:27 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'Control Flow Statements'
+
+2018-12-08 23:47:27 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:47:27 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:47:27 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:47:27 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'Conditional (If-Else) Statements'
+
+2018-12-08 23:47:27 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:47:28 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:47:28 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'Conditional (If-Else) Statements'
+
+2018-12-08 23:47:28 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:47:28 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:47:28 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:47:28 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'Switch Statements'
+
+2018-12-08 23:47:29 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:47:30 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:47:30 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'Switch Statements'
+
+2018-12-08 23:47:30 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:47:30 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:47:30 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:47:30 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'Loops'
+
+2018-12-08 23:47:30 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:47:31 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:47:31 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'Loops'
+
+2018-12-08 23:47:31 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:47:32 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:47:32 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:47:32 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'Do-While Loops'
+
+2018-12-08 23:47:32 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:47:33 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:47:33 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'Do-While Loops'
+
+2018-12-08 23:47:33 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:47:33 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:47:33 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:47:33 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'While Loops'
+
+2018-12-08 23:47:33 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:47:34 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:47:34 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'While Loops'
+
+2018-12-08 23:47:34 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:47:34 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:47:34 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:47:35 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'For Loops'
+
+2018-12-08 23:47:35 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:47:36 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:47:36 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'For Loops'
+
+2018-12-08 23:47:36 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:47:36 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:47:36 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:47:36 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'Traditional For Loops'
+
+2018-12-08 23:47:36 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:47:37 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:47:37 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'Traditional For Loops'
+
+2018-12-08 23:47:37 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:47:37 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:47:37 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:47:37 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'List or Set Iteration for Loops'
+
+2018-12-08 23:47:38 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:47:39 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:47:39 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'List or Set Iteration for Loops'
+
+2018-12-08 23:47:39 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:47:39 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:47:39 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:47:39 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'Iterating Collections'
+
+2018-12-08 23:47:39 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:47:40 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:47:40 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'Iterating Collections'
+
+2018-12-08 23:47:40 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:47:40 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:47:40 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:47:40 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'Classes, Objects, and Interfaces'
+
+2018-12-08 23:47:41 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:47:42 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:47:42 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'Classes, Objects, and Interfaces'
+
+2018-12-08 23:47:42 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:47:42 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:47:42 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:47:42 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'Classes'
+
+2018-12-08 23:47:42 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:47:43 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:47:43 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'Classes'
+
+2018-12-08 23:47:43 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:47:43 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:47:43 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:47:43 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'Apex Class Definition'
+
+2018-12-08 23:47:44 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:47:45 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:47:45 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'Apex Class Definition'
+
+2018-12-08 23:47:45 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:47:45 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:47:45 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:47:45 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'Class Variables'
+
+2018-12-08 23:47:45 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:47:46 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:47:46 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'Class Variables'
+
+2018-12-08 23:47:46 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:47:46 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:47:46 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:47:46 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'Class Methods'
+
+2018-12-08 23:47:47 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:47:48 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:47:48 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'Class Methods'
+
+2018-12-08 23:47:48 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:47:48 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:47:48 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:47:48 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'Using Constructors'
+
+2018-12-08 23:47:48 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:47:49 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:47:49 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'Using Constructors'
+
+2018-12-08 23:47:49 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:47:49 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:47:50 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:47:50 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'Access Modifiers'
+
+2018-12-08 23:47:50 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:47:51 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:47:51 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'Access Modifiers'
+
+2018-12-08 23:47:51 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:47:51 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:47:51 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:47:51 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'Static and Instance Methods, Variables, and Initialization Code'
+
+2018-12-08 23:47:52 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:47:53 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:47:53 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'Static and Instance Methods, Variables, and Initialization Code'
+
+2018-12-08 23:47:53 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:47:53 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:47:53 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:47:53 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'Apex Properties'
+
+2018-12-08 23:47:53 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:47:54 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:47:54 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'Apex Properties'
+
+2018-12-08 23:47:54 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:47:54 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:47:55 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:47:55 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'Extending a Class'
+
+2018-12-08 23:47:55 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:47:56 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:47:56 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'Extending a Class'
+
+2018-12-08 23:47:56 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:47:56 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:47:56 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:47:56 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'Extended Class Example'
+
+2018-12-08 23:47:57 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:47:58 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:47:58 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'Extended Class Example'
+
+2018-12-08 23:47:58 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:47:58 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:47:58 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:47:58 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'Interfaces'
+
+2018-12-08 23:47:59 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:48:00 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:48:00 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'Interfaces'
+
+2018-12-08 23:48:00 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:48:00 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:48:00 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:48:00 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'Custom Iterators'
+
+2018-12-08 23:48:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:48:02 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:48:02 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'Custom Iterators'
+
+2018-12-08 23:48:02 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:48:02 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:48:02 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:48:02 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'Keywords'
+
+2018-12-08 23:48:02 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:48:03 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:48:03 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'Keywords'
+
+2018-12-08 23:48:03 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:48:03 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:48:03 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:48:03 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'Using the final Keyword'
+
+2018-12-08 23:48:04 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:48:05 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:48:05 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'Using the final Keyword'
+
+2018-12-08 23:48:05 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:48:05 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:48:05 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:48:05 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'Using the instanceof Keyword'
+
+2018-12-08 23:48:05 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:48:06 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:48:06 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'Using the instanceof Keyword'
+
+2018-12-08 23:48:06 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:48:06 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:48:06 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:48:06 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'Using the super Keyword'
+
+2018-12-08 23:48:07 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:48:08 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:48:08 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'Using the super Keyword'
+
+2018-12-08 23:48:08 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:48:08 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:48:08 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:48:08 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'Using the this Keyword'
+
+2018-12-08 23:48:08 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:48:09 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:48:09 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'Using the this Keyword'
+
+2018-12-08 23:48:09 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:48:09 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:48:10 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:48:10 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'Using the transient Keyword'
+
+2018-12-08 23:48:10 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:48:11 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:48:11 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'Using the transient Keyword'
+
+2018-12-08 23:48:11 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:48:11 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:48:11 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:48:11 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'Using the with sharing, without sharing, and inherited sharing Keywords'
+
+2018-12-08 23:48:12 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:48:13 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:48:13 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'Using the with sharing, without sharing, and inherited sharing Keywords'
+
+2018-12-08 23:48:13 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:48:13 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:48:13 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:48:13 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'Annotations'
+
+2018-12-08 23:48:13 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:48:14 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:48:14 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'Annotations'
+
+2018-12-08 23:48:14 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:48:14 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:48:14 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:48:14 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'AuraEnabled Annotation'
+
+2018-12-08 23:48:15 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:48:16 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:48:16 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'AuraEnabled Annotation'
+
+2018-12-08 23:48:16 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:48:16 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:48:16 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:48:16 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'Deprecated Annotation'
+
+2018-12-08 23:48:16 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:48:17 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:48:17 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'Deprecated Annotation'
+
+2018-12-08 23:48:17 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:48:17 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:48:17 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:48:17 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'Future Annotation'
+
+2018-12-08 23:48:18 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:48:19 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:48:19 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'Future Annotation'
+
+2018-12-08 23:48:19 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:48:19 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:48:19 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:48:19 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'InvocableMethod Annotation'
+
+2018-12-08 23:48:19 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:48:20 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:48:20 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'InvocableMethod Annotation'
+
+2018-12-08 23:48:20 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:48:20 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:48:20 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:48:20 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'InvocableVariable Annotation'
+
+2018-12-08 23:48:21 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:48:22 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:48:22 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'InvocableVariable Annotation'
+
+2018-12-08 23:48:22 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:48:22 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:48:22 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:48:22 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'IsTest Annotation'
+
+2018-12-08 23:48:22 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:48:23 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:48:23 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'IsTest Annotation'
+
+2018-12-08 23:48:23 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:48:23 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:48:23 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:48:24 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'ReadOnly Annotation'
+
+2018-12-08 23:48:24 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:48:25 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:48:25 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'ReadOnly Annotation'
+
+2018-12-08 23:48:25 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:48:25 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:48:25 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:48:25 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'RemoteAction Annotation'
+
+2018-12-08 23:48:25 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:48:26 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:48:26 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'RemoteAction Annotation'
+
+2018-12-08 23:48:27 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:48:27 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:48:27 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:48:27 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'SuppressWarnings Annotation'
+
+2018-12-08 23:48:27 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:48:28 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:48:28 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'SuppressWarnings Annotation'
+
+2018-12-08 23:48:28 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:48:28 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:48:28 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:48:28 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'TestSetup Annotation'
+
+2018-12-08 23:48:29 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:48:30 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:48:30 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'TestSetup Annotation'
+
+2018-12-08 23:48:30 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:48:30 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:48:30 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:48:30 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'TestVisible Annotation'
+
+2018-12-08 23:48:30 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:48:31 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:48:31 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'TestVisible Annotation'
+
+2018-12-08 23:48:31 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:48:31 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:48:31 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:48:31 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'Apex REST Annotations'
+
+2018-12-08 23:48:32 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:48:33 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:48:33 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'Apex REST Annotations'
+
+2018-12-08 23:48:33 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:48:33 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:48:33 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:48:33 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'RestResource Annotation'
+
+2018-12-08 23:48:33 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:48:34 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:48:34 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'RestResource Annotation'
+
+2018-12-08 23:48:34 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:48:34 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:48:34 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:48:34 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'HttpDelete Annotation'
+
+2018-12-08 23:48:35 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:48:36 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:48:36 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'HttpDelete Annotation'
+
+2018-12-08 23:48:36 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:48:36 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:48:36 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:48:36 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'HttpGet Annotation'
+
+2018-12-08 23:48:36 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:48:37 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:48:37 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'HttpGet Annotation'
+
+2018-12-08 23:48:37 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:48:38 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:48:38 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:48:38 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'HttpPatch Annotation'
+
+2018-12-08 23:48:38 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:48:39 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:48:39 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'HttpPatch Annotation'
+
+2018-12-08 23:48:39 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:48:39 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:48:39 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:48:39 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'HttpPost Annotation'
+
+2018-12-08 23:48:40 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:48:41 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:48:41 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'HttpPost Annotation'
+
+2018-12-08 23:48:41 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:48:41 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:48:41 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:48:41 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'HttpPut Annotation'
+
+2018-12-08 23:48:41 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:48:42 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:48:42 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'HttpPut Annotation'
+
+2018-12-08 23:48:42 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:48:42 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:48:42 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:48:42 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'Classes and Casting'
+
+2018-12-08 23:48:43 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:48:44 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:48:44 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'Classes and Casting'
+
+2018-12-08 23:48:44 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:48:44 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:48:44 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:48:44 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'Classes and Collections'
+
+2018-12-08 23:48:45 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:48:46 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:48:46 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'Classes and Collections'
+
+2018-12-08 23:48:46 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:48:46 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:48:46 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:48:46 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'Collection Casting'
+
+2018-12-08 23:48:46 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:48:47 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:48:47 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'Collection Casting'
+
+2018-12-08 23:48:47 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:48:47 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:48:48 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:48:48 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'Differences Between Apex Classes and Java Classes'
+
+2018-12-08 23:48:48 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:48:49 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:48:49 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'Differences Between Apex Classes and Java Classes'
+
+2018-12-08 23:48:49 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:48:49 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:48:49 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:48:49 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'Class Definition Creation'
+
+2018-12-08 23:48:50 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:48:51 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:48:51 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'Class Definition Creation'
+
+2018-12-08 23:48:51 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:48:51 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:48:51 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:48:51 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'Naming Conventions'
+
+2018-12-08 23:48:52 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:48:53 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:48:53 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'Naming Conventions'
+
+2018-12-08 23:48:53 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:48:53 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:48:53 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' successfully
+
+2018-12-08 23:48:53 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is: 'Name Shadowing'
+
+2018-12-08 23:48:53 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/ContentLinks' is clicked on
+
+2018-12-08 23:48:54 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:48:54 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'Name Shadowing'
+
+2018-12-08 23:48:55 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:48:55 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:48:55 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Salesforce Developers  API Doc/Search_TextBox' is visible
+
+2018-12-08 23:48:55 - [MESSAGE][PASSED] - Text 'Writing Tests' is set on object 'Object Repository/Page_Salesforce Developers  API Doc/Search_TextBox'
+
+2018-12-08 23:48:55 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Page_Salesforce Developers  API Doc/Search_TextBox'
+
+2018-12-08 23:48:55 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-12-08 23:48:57 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Search/a_Writing Tests  Apex Develope' is present
+
+2018-12-08 23:48:57 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Search/a_Writing Tests  Apex Develope' is clickable
+
+2018-12-08 23:49:00 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Search/a_Writing Tests  Apex Develope' is clicked on
+
+2018-12-08 23:49:03 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-12-08 23:49:03 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/a_Testing Apex' successfully
+
+2018-12-08 23:49:04 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Writing Tests  Apex Developer/a_Testing Apex' is clicked on
+
+2018-12-08 23:49:05 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-08 23:49:05 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' is: 'Testing Apex'
+
+2018-12-08 23:49:05 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' successfully
+
+2018-12-08 23:49:05 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Writing Tests  Apex Developer/h1_ContentHeader' are matched.
+
+2018-12-08 23:49:05 - [MESSAGE][PASSED] - Browser is closed
+
+2018-12-08 23:49:06 - [MESSAGE][PASSED] - All feature files in 'Include/features/SalesforceAutomation.feature' were passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-12-08 23:45:38 - [TEST_SUITE][PASSED] - CucumberBDDRunFeatureFile: Test Cases/TC-CucumberBDDRunFeatureFile]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

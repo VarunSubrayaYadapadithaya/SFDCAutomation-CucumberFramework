@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="4" time="204.729794">
+<testcase classname="Login to developer.salesforce.com and check the functionalities" name="Login to developer.salesforce.com URL" time="22.256364">
+<system-out><![CDATA[Given I enter the URL.......................................................passed
+Then I should see the homepage..............................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Login to developer.salesforce.com and check the functionalities" name="Search for Writing Tests and Assert Writing test page is listed" time="4.496818">
+<system-out><![CDATA[Given I enter the Writing Tests in the searchbox and click Enter key........passed
+Then I should see the result page...........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Login to developer.salesforce.com and check the functionalities" name="Retrieve the links in the contents, click each one of them and verify links are working" time="167.16408">
+<system-out><![CDATA[Given Click on the Writing tests page and check the links under contents....passed
+Then I should see each clicked 'contents' link opened.......................passed
+]]></system-out>
+</testcase>
+<testcase classname="Login to developer.salesforce.com and check the functionalities" name="On the Writing Tests Page, Click Link Testing Apex and Verify Testing Apex page is loaded and close the Browser." time="10.812532">
+<system-out><![CDATA[Given I Search for Writing Tests and click Enter key........................passed
+When I am on Writing Tests Page.............................................passed
+And I Click the Link 'Testing Apex'.........................................passed
+Then I Verify Testing Apex page is loaded...................................passed
+]]></system-out>
+</testcase>
+</testsuite>

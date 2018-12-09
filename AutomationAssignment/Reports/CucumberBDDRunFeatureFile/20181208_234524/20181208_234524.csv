@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+CucumberBDDRunFeatureFile,Firefox 63.0,,2018-12-08 23:45:38,2018-12-08 23:49:06,3m - 27.475s,PASSED
+,,,,,,
+Test Cases/TC-CucumberBDDRunFeatureFile,Firefox 63.0,,2018-12-08 23:45:39,2018-12-08 23:49:06,3m - 26.940s,PASSED
+"runFeatureFolder(""Include/features/SalesforceAutomation.feature"")",Firefox 63.0,,2018-12-08 23:45:39,2018-12-08 23:49:06,3m - 26.384s,PASSED

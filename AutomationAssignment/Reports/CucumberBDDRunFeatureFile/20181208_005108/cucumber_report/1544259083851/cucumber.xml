@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="16.327846">
+<testcase classname="Login to developer.salesforce.com and check the functionalities" name="Login to developer.salesforce.com URL" time="16.327846">
+<system-out><![CDATA[Given I enter the URL.......................................................passed
+Then I should see the homepage..............................................passed
+]]></system-out>
+</testcase>
+</testsuite>

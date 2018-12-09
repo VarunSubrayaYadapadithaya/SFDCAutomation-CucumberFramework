@@ -1,0 +1,214 @@
+[
+  {
+    "line": 4,
+    "elements": [
+      {
+        "line": 7,
+        "name": "Login to developer.salesforce.com URL",
+        "description": "",
+        "id": "login-to-developer.salesforce.com-and-check-the-functionalities;login-to-developer.salesforce.com-url",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 22111659277,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I enter the URL",
+            "match": {
+              "location": "SalesforceAutomation.I_enter_the_URL()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 96498234,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I should see the homepage",
+            "match": {
+              "location": "SalesforceAutomation.I_see_homepage()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@LoginToURL"
+          },
+          {
+            "name": "@TC001"
+          }
+        ]
+      },
+      {
+        "line": 12,
+        "name": "Search for Writing Tests and Assert Writing test page is listed",
+        "description": "",
+        "id": "login-to-developer.salesforce.com-and-check-the-functionalities;search-for-writing-tests-and-assert-writing-test-page-is-listed",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1428920383,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "I enter the Writing Tests in the searchbox and click Enter key",
+            "match": {
+              "location": "SalesforceAutomation.i_enter_the_Writing_Tests_in_the_searchbox_and_click_Enter_key()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 3063112193,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "I should see the result page",
+            "match": {
+              "location": "SalesforceAutomation.i_should_see_the_result_page()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@LoginToURL"
+          },
+          {
+            "name": "@TC002"
+          }
+        ]
+      },
+      {
+        "line": 17,
+        "name": "Retrieve the links in the contents, click each one of them and verify links are working",
+        "description": "",
+        "id": "login-to-developer.salesforce.com-and-check-the-functionalities;retrieve-the-links-in-the-contents--click-each-one-of-them-and-verify-links-are-working",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 11236287946,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "Click on the Writing tests page and check the links under contents",
+            "match": {
+              "location": "SalesforceAutomation.Click_on_the_Writing_tests_page_and_check_the_links_under_contents()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 155922118855,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "I should see each clicked \u0027contents\u0027 link opened",
+            "match": {
+              "location": "SalesforceAutomation.I_should_see_each_clicked_contents_link_opened()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@LoginToURL"
+          },
+          {
+            "name": "@TC003"
+          }
+        ]
+      },
+      {
+        "line": 22,
+        "name": "On the Writing Tests Page, Click Link Testing Apex and Verify Testing Apex page is loaded and close the Browser.",
+        "description": "",
+        "id": "login-to-developer.salesforce.com-and-check-the-functionalities;on-the-writing-tests-page--click-link-testing-apex-and-verify-testing-apex-page-is-loaded-and-close-the-browser.",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 382020022,
+              "status": "passed"
+            },
+            "line": 23,
+            "name": "I Search for Writing Tests and click Enter key",
+            "match": {
+              "location": "SalesforceAutomation.I_enter_the_Writing_Tests_in_the_searchbox_and_click_Enter()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 8304529320,
+              "status": "passed"
+            },
+            "line": 24,
+            "name": "I am on Writing Tests Page",
+            "match": {
+              "location": "SalesforceAutomation.I_am_on_Writing_Tests_Page()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1403317630,
+              "status": "passed"
+            },
+            "line": 25,
+            "name": "I Click the Link \u0027Testing Apex\u0027",
+            "match": {
+              "location": "SalesforceAutomation.I_Click_Testing_Apex()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 720073225,
+              "status": "passed"
+            },
+            "line": 26,
+            "name": "I Verify Testing Apex page is loaded",
+            "match": {
+              "location": "SalesforceAutomation.I_Verify_page_is_loaded()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@LoginToURL"
+          },
+          {
+            "name": "@TC004"
+          }
+        ]
+      }
+    ],
+    "name": "Login to developer.salesforce.com and check the functionalities",
+    "description": "",
+    "id": "login-to-developer.salesforce.com-and-check-the-functionalities",
+    "keyword": "Feature",
+    "uri": "/Users/VarunSubrayaYadapadithaya/Desktop/Varun/Work/eclipse workspaces/AutomationAssignment/Include/features/SalesforceAutomation.feature",
+    "tags": [
+      {
+        "name": "@LoginToURL",
+        "type": "Tag",
+        "location": {
+          "line": 3,
+          "column": 1
+        }
+      }
+    ]
+  }
+]

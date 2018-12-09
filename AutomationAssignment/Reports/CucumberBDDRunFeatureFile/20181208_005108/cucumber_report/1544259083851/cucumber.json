@@ -1,0 +1,64 @@
+[
+  {
+    "line": 20,
+    "elements": [
+      {
+        "line": 23,
+        "name": "Login to developer.salesforce.com URL",
+        "description": "",
+        "id": "login-to-developer.salesforce.com-and-check-the-functionalities;login-to-developer.salesforce.com-url",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 16196041476,
+              "status": "passed"
+            },
+            "line": 24,
+            "name": "I enter the URL",
+            "match": {
+              "location": "SalesforceAutomation.I_enter_the_URL()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 97516602,
+              "status": "passed"
+            },
+            "line": 25,
+            "name": "I should see the homepage",
+            "match": {
+              "location": "SalesforceAutomation.I_see_homepage()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@LoginToURL"
+          },
+          {
+            "name": "@test"
+          }
+        ]
+      }
+    ],
+    "name": "Login to developer.salesforce.com and check the functionalities",
+    "description": "",
+    "id": "login-to-developer.salesforce.com-and-check-the-functionalities",
+    "keyword": "Feature",
+    "uri": "/Users/VarunSubrayaYadapadithaya/Desktop/Varun/Work/eclipse workspaces/AutomationAssignment/Include/features/SalesforceAutomation.feature",
+    "tags": [
+      {
+        "name": "@LoginToURL",
+        "type": "Tag",
+        "location": {
+          "line": 19,
+          "column": 1
+        }
+      }
+    ]
+  }
+]

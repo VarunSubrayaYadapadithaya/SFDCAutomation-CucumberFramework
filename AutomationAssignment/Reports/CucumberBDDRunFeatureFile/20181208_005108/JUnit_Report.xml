@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="CucumberBDDRunFeatureFile" time="19" tests="1" failures="0" errors="0">
+   <testsuite name="CucumberBDDRunFeatureFile" tests="1" failures="0" errors="0" time="19" timestamp="2018-12-08 00:51:22" hostname="VarunSubrayaYadapadithaya - localhost" id="Test Suites/CucumberBDDRunFeatureFile">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="/Users/VarunSubrayaYadapadithaya/Desktop/Varun/Work/eclipse workspaces/AutomationAssignment/Reports/CucumberBDDRunFeatureFile/20181208_005108"/>
+         <property name="logFiles" value="/Users/VarunSubrayaYadapadithaya/Desktop/Varun/Work/eclipse workspaces/AutomationAssignment/Reports/CucumberBDDRunFeatureFile/20181208_005108/execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="VarunSubrayaYadapadithaya - localhost"/>
+         <property name="os" value="Mac OS X 64bit"/>
+         <property name="katalonVersion" value="5.9.1.2"/>
+         <property name="browser" value="Firefox 63.0"/>
+         <property name="hostAddress" value="127.0.0.1"/>
+         <property name="sessionId" value="c85bfcbe-9bd9-6f44-850b-2e226298d97f"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Mac OS X"/>
+      </properties>
+      <testcase name="Test Cases/TC-CucumberBDDRunFeatureFile" classname="Test Cases/TC-CucumberBDDRunFeatureFile" status="PASSED">
+         <system-out><![CDATA[2018-12-08 00:51:23 - [TEST_CASE][PASSED] - Test Cases/TC-CucumberBDDRunFeatureFile: Test Cases/TC-CucumberBDDRunFeatureFile
+
+2018-12-08 00:51:23 - [TEST_STEP][PASSED] - runFeatureFolder("Include/features/SalesforceAutomation.feature"): All feature files in 'Include/features/SalesforceAutomation.feature' were passed
+
+2018-12-08 00:51:23 - [MESSAGE][INFO] - Starting run keyword runFeatureFolder: 'Include/features/SalesforceAutomation.feature' and extract report to folder: '/Users/VarunSubrayaYadapadithaya/Desktop/Varun/Work/eclipse workspaces/AutomationAssignment/Reports/CucumberBDDRunFeatureFile/20181208_005108/cucumber_report/1544259083851'...
+
+2018-12-08 00:51:25 - [MESSAGE][INFO] - Starting 'Firefox' driver
+
+2018-12-08 00:51:25 - [MESSAGE][INFO] - Action delay is set to 0 seconds
+
+2018-12-08 00:51:30 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-12-08 00:51:34 - [MESSAGE][PASSED] - Current window maximized
+
+2018-12-08 00:51:40 - [MESSAGE][PASSED] - Navigate to 'http://developer.salesforce.com' successfully
+
+2018-12-08 00:51:40 - [MESSAGE][PASSED] - Current window's title is: 'Salesforce Developers | API Documentation, Developer Forums & More'
+
+2018-12-08 00:51:40 - [MESSAGE][PASSED] - Actual text 'Salesforce Developers | API Documentation, Developer Forums & More' and expected text 'Salesforce Developers | API Documentation, Developer Forums & More' are matched 
+
+2018-12-08 00:51:41 - [MESSAGE][PASSED] - All feature files in 'Include/features/SalesforceAutomation.feature' were passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-12-08 00:51:22 - [TEST_SUITE][PASSED] - CucumberBDDRunFeatureFile: Test Cases/TC-CucumberBDDRunFeatureFile]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
